@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1692372342,,"wq"
+|2,0,1692374100,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,81 @@
 # Registers:
 
 # File marks:
-'0  109  9  ~/amazon.java
-|4,48,109,9,1692372342,"~/amazon.java"
+'0  3  9  ~/.gitignore
+|4,48,3,9,1692374100,"~/.gitignore"
+'1  1  0  ~/nvidia.java
+|4,49,1,0,1692374054,"~/nvidia.java"
+'2  3  9  ~/nvidia.java
+|4,50,3,9,1692374011,"~/nvidia.java"
+'3  109  9  ~/amazon.java
+|4,51,109,9,1692372342,"~/amazon.java"
 
 # Jumplist (newest first):
+-'  3  9  ~/.gitignore
+|4,39,3,9,1692374100,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1692374081,"~/.gitignore"
+-'  1  0  ~/nvidia.java
+|4,39,1,0,1692374054,"~/nvidia.java"
+-'  1  0  ~/nvidia.java
+|4,39,1,0,1692374054,"~/nvidia.java"
+-'  3  9  ~/nvidia.java
+|4,39,3,9,1692374011,"~/nvidia.java"
+-'  3  9  ~/nvidia.java
+|4,39,3,9,1692374011,"~/nvidia.java"
+-'  1  0  ~/nvidia.java
+|4,39,1,0,1692373991,"~/nvidia.java"
+-'  1  0  ~/nvidia.java
+|4,39,1,0,1692373991,"~/nvidia.java"
+-'  109  9  ~/amazon.java
+|4,39,109,9,1692372342,"~/amazon.java"
+-'  109  9  ~/amazon.java
+|4,39,109,9,1692372342,"~/amazon.java"
+-'  109  9  ~/amazon.java
+|4,39,109,9,1692372342,"~/amazon.java"
+-'  109  9  ~/amazon.java
+|4,39,109,9,1692372342,"~/amazon.java"
+-'  109  9  ~/amazon.java
+|4,39,109,9,1692372342,"~/amazon.java"
+-'  109  9  ~/amazon.java
+|4,39,109,9,1692372342,"~/amazon.java"
+-'  109  9  ~/amazon.java
+|4,39,109,9,1692372342,"~/amazon.java"
 -'  109  9  ~/amazon.java
 |4,39,109,9,1692372342,"~/amazon.java"
 -'  1  0  ~/amazon.java
 |4,39,1,0,1692372327,"~/amazon.java"
+-'  1  0  ~/amazon.java
+|4,39,1,0,1692372327,"~/amazon.java"
+-'  1  0  ~/amazon.java
+|4,39,1,0,1692372327,"~/amazon.java"
+-'  1  0  ~/amazon.java
+|4,39,1,0,1692372327,"~/amazon.java"
+-'  1  0  ~/amazon.java
+|4,39,1,0,1692372327,"~/amazon.java"
+-'  1  0  ~/amazon.java
+|4,39,1,0,1692372327,"~/amazon.java"
+-'  1  0  ~/amazon.java
+|4,39,1,0,1692372327,"~/amazon.java"
+-'  1  0  ~/amazon.java
+|4,39,1,0,1692372327,"~/amazon.java"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1692374099	0
+	"	3	9
+	^	3	10
+	.	3	9
+	+	3	9
+
+> ~/nvidia.java
+	*	1692374053	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	13
+	+	1	0
 
 > ~/amazon.java
 	*	1692372339	0
